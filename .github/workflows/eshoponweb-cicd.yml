@@ -10,7 +10,7 @@ env:
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6c4c4759-cfa6-475e-bf63-66bc720c59b4
 
-  WEBAPP-NAME: devops-webapp-westeurope-2611132241
+  WEBAPP-NAME: devops-webapp-westeurope-206244533
 
 
 jobs:
